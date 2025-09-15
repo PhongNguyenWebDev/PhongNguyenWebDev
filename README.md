@@ -1,7 +1,7 @@
 # 📄 Nguyễn Tuấn Phong - CV
 
 ## 👩‍💻 About Me
-Xin chào! Tôi là **Nguyễn Tuấn Phong**, một lập trình viên đầy nhiệt huyết với đam mê phát triển web. Mục tiêu sắp tới của tôi là trở thành một lập trình viên giỏi, đóng góp giá trị cá nhân để tạo ra những sản phẩm tốt nhất cho công ty và khách hàng, đồng thời làm việc trong một môi trường chuyên nghiệp và năng động. Hiện tại tôi đang theo học chứng chỉ AWS Certified Cloud Practitioner để phục vụ cho công việc sắp tới.
+Xin chào! Tôi là **Nguyễn Tuấn Phong**, một lập trình viên đầy nhiệt huyết với đam mê phát triển web. Mục tiêu sắp tới của tôi là trở thành một lập trình viên giỏi, đóng góp giá trị cá nhân để tạo ra những sản phẩm tốt nhất cho công ty và khách hàng, đồng thời làm việc trong một môi trường chuyên nghiệp và năng động.
 
 ---
 
